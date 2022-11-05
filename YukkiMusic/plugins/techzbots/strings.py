@@ -26,11 +26,16 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AkenoOfficial"
+                text="📣 Updates Channel", url="https://t.me/AtlanticTunesOfficial"
             ),
             InlineKeyboardButton(
                 text="💬 Support Group", url="https://t.me/Strangers_Ki_Mehfil"
             ),                       
+        ],
+        [
+            InlineKeyboardButton(
+                text="Deploy Your Bot", url=f"https://t.me/github.com/TeamAviax/AviaxMusic"
+            ),            
         ],
     ]
 )
@@ -48,11 +53,16 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AkenoOfficial"
+                text="📣 Updates Channel", url="https://t.me/AtlanticTunesOfficial"
             ),
             InlineKeyboardButton(
                 text="💬 Support Group", url="https://t.me/Strangers_Ki_Mehfil"
             ),                       
+        ],
+        [
+            InlineKeyboardButton(
+                text="Deploy Your Bot", url=f"https://t.me/github.com/TeamAviax/AviaxMusic"
+            ),            
         ],
     ]
 )
